@@ -1,0 +1,35 @@
+﻿<!DOCTYPE HTML>
+<html>
+  <head>
+  <!-- Подключаемые файлы, метатеги, название страницы -->
+<title>Travelsword</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Brygada+1918&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="Travelsworldhub.css">
+  <!-- Кодировка страницы-->
+  <meta charset="utf-8"/> 
+  <title>Название страницы</title>
+</head>
+<body>
+<div class="main">
+<p>__TRAVELSWORLD__</p>
+<a href="https://instagram.com/__travelsworld___?utm_medium=copy_link"> <img src="inst.png">
+<a href="tiktok.html"> <img src="tiktok.png">
+</div>
+<div class="bob">
+
+</div>
+
+  <!-- Тело сайта, отвечает за вывод на страницу-->
+  <header>
+  <!-- Шапка сайта-->
+  </header>
+  <nav>
+  <!-- Навигация -->
+  </nav>
+  <footer>
+  <!-- Подвал сайта-->
+  </footer>
+</body>
+</html>
