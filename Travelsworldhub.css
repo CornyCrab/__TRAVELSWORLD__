@@ -38,26 +38,18 @@ color:#FF0000;
 }
 img{
 	text-align: center;
-	width:25px;
+	width:50px;
 	margin-right:10px;
 	margin-left:10px;
 	
 }
 
-/*.blure{
-	position:fixed;
-	top: 0px;
-	left: 0px;
-	padding-right:98%;
-	padding-bottom:100%;
-	text-align: center;
-	 border: #603 dotted;
-    padding-top: 100%;
-    margin-top: 0%;
-	margin-left: 0%;
-	margin-right: 0%;
-	margin-bottom: 0%;
-	filter: blur(5px);
+@media only screen and (max-width: 1000px){
+	.main{
+	margin-top:25%;
 	
-	z-index: 1;
-}*/
+}
+	.img{
+	width: 8vw;	
+}
+}
