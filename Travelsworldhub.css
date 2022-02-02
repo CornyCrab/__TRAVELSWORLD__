@@ -50,7 +50,7 @@ img{
 }
 
 
-@media(max-width: 1000px){
+@media only(max-width: 1000px){
 	.main{
 	margin-top:45%;
 	
