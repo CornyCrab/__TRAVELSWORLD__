@@ -49,7 +49,7 @@ img{
 	
 }
 
-@media only screen and (max-width: 1000px){
+@media(max-width: 1000px){
 	.main{
 	margin-top:45%;
 	
